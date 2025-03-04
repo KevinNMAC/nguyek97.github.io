@@ -1,0 +1,32 @@
+img{
+    max-width: 20%;
+    max-height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border:5px solid #3e5498;
+}
+
+.Info{
+    text-align: center;
+}
+
+
+.date{
+    float: right;
+    color:#3e5498 ;
+}
+
+.divider{
+    border-right: thick black;
+}
+
+h2{
+    color:#3e5498 ;
+    text-decoration: underline;
+}
+
+.About_Me{
+    text-align: center;
+}
+
